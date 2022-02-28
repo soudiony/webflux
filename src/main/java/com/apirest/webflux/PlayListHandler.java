@@ -15,7 +15,7 @@ import static org.springframework.web.reactive.function.BodyInserters.fromPublis
 import static org.springframework.web.reactive.function.server.ServerResponse.ok;
 
 
-@Component   //é um Bin gerenciado pelo Spring
+//@Component   //é um Bin gerenciado pelo Spring
 public class PlayListHandler {       //Handler ta fz papel de RestController
 
     @Autowired

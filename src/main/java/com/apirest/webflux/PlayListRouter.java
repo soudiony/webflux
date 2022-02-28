@@ -11,7 +11,7 @@ import static org.springframework.web.reactive.function.server.RequestPredicates
 
 // ROUTER E HANDLER - PROGRAMAÇÃO ESTILO FUNCIONAL
 
-@Configuration
+//@Configuration
 public class PlayListRouter {
 
     @Bean
